@@ -1,0 +1,30 @@
+.book-filter p{
+    background-color: rgb(156, 209, 221);
+    border-radius: 5px;
+    border: solid 1px;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+}
+.book-filter{
+    justify-content: space-around;
+}
+.allbook{
+    display: flex;
+    margin: 20px;
+    flex: 1;
+    width: 100%;
+
+}
+body{
+    width: 100%;
+}
+.card{
+    border-radius: 5px;
+    
+    
+}
+.card h2{
+    font-size: 12px;
+}
